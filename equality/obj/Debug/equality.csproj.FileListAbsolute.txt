@@ -1,0 +1,6 @@
+c:\users\abdukhan\documents\visual studio 2013\Projects\equality\equality\bin\Debug\equality.exe.config
+c:\users\abdukhan\documents\visual studio 2013\Projects\equality\equality\bin\Debug\equality.exe
+c:\users\abdukhan\documents\visual studio 2013\Projects\equality\equality\bin\Debug\equality.pdb
+c:\users\abdukhan\documents\visual studio 2013\Projects\equality\equality\obj\Debug\equality.csprojResolveAssemblyReference.cache
+c:\users\abdukhan\documents\visual studio 2013\Projects\equality\equality\obj\Debug\equality.exe
+c:\users\abdukhan\documents\visual studio 2013\Projects\equality\equality\obj\Debug\equality.pdb
